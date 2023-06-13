@@ -6,7 +6,7 @@ import { CpiItemCodes } from './blsCpiItemCodes';
 
 const apiKey = process.env.NEXT_PUBLIC_BLS_API_KEY;
 
-export function useBlsData() {
+export function useBls() {
 	function logData() {
 		console.log('API Key: ', apiKey);
 		console.log('AreaCodes: ', AreaCodes);
