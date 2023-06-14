@@ -1,0 +1,40 @@
+[
+	{
+		"commonName": "Microsoft",
+		"companyName:": "Microsoft Corp.",
+		"symbol": "MSFT"
+	},
+	{
+		"commonName": "Apple",
+		"companyName:": "Apple Inc.",
+		"symbol": "AAPL"
+	},
+	{
+		"commonName": "Amazon",
+		"companyName": "Amazon.com Inc.",
+		"symbol": "AMZN"
+	},
+	{ "commonName": "NVIDIA", "companyName": "NVIDIA Corp.", "symbol": "NVDA" },
+	{ "commonName": "Tesla", "commpanyName": "Tesla Inc.", "symbol": "TSLA" },
+	{
+		"commonName": "Meta",
+		"commpanyName": "Meta Platforms Inc.",
+		"symbol": "META"
+	},
+	{
+		"commonName": "Alphabet",
+		"companyName": "Alphabet Inc.",
+		"symbol": "GOOGL"
+	},
+	{
+		"commonName": "Alphabet",
+		"companyName": "Alphabet Inc.",
+		"symbol": "GOOG"
+	},
+	{
+		"commonName": "Broadcom Inc.",
+		"companyName": "Broadcom Inc.",
+		"symbol": "AVGO"
+	},
+	{ "commonName": "Pepsi", "companyName": "PepsiCo Inc.", "symbol": "PEP" }
+]

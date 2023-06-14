@@ -1,0 +1,52 @@
+[
+	{
+		"companyName": "Berkshire Hathaway Inc. Class A",
+		"commonName": "Berkshire Hathaway",
+		"symbol": "BRK-A"
+	},
+	{
+		"companyName": "UnitedHealth Group Inc.",
+		"commonName": "UnitedHealth Group",
+		"symbol": "UNH"
+	},
+	{
+		"companyName": "Johnson & Johnson",
+		"commonName": "Johnson & Johnson",
+		"symbol": "JNJ"
+	},
+	{
+		"companyName": "Exxon Mobil Corporation",
+		"commonName": "Exxon",
+		"symbol": "XOM"
+	},
+	{
+		"companyName": "Visa Inc.",
+		"commonName": "Visa",
+		"symbol": "V"
+	},
+	{
+		"companyName": "Taiwan Semiconductor Manufacturing Company Ltd.",
+		"commonName": "TSMC",
+		"symbol": "TSM"
+	},
+	{
+		"companyName": "Walmart Inc.",
+		"commonName": "Walmart",
+		"symbol": "WMT"
+	},
+	{
+		"companyName": "J P Morgan Chase & Co.",
+		"commonName": "Chase",
+		"symbol": ""
+	},
+	{
+		"companyName": "Procter & Gamble Company",
+		"commonName": "Procter & Gamble",
+		"symbol": "JPM"
+	},
+	{
+		"companyName": "Eli Lilly and Company",
+		"commonName": "Eli Lilly",
+		"symbol": "LLY"
+	}
+]
